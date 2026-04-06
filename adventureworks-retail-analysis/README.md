@@ -114,12 +114,6 @@ adventureworks-retail-analysis/
 - The original project report and slide deck are included in `docs/references/`.
 - This repo is designed to present the work professionally for recruiters and hiring managers.
 
-## Suggested next upgrades
-
-- add a Power BI or Tableau dashboard
-- convert the Python scripts into a clean notebook
-- publish sample chart images to `images/`
-- add a short LinkedIn project write-up
 
 ## Author
 
