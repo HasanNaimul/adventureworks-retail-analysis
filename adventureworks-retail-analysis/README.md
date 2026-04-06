@@ -1,6 +1,6 @@
 # Retail Performance & Workforce Efficiency Analysis
 
-A portfolio-ready SQL + Python case study built on the AdventureWorks2019 dataset.
+SQL + Python case study built on the AdventureWorks2019 dataset.
 
 ## Overview
 
