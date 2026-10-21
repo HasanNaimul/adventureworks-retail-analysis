@@ -18,6 +18,8 @@ Many student projects stop at charts. This one is structured like an analyst por
 - clear executive summary
 - actionable recommendations
 
+> For verified setup steps, export formats and interpretation limits, start with the [repository introduction](../README.md). The findings below describe the original group analysis; they were not regenerated in the October 2026 review.
+
 ## Business Questions
 
 1. Which countries generate the highest revenue?
@@ -118,7 +120,7 @@ adventureworks-retail-analysis/
 ## Author
 
 **Hasan Naimul**  
-Aspiring Data Analyst
+AI implementation and data analytics | Generation UK & Ireland group project
 
 ## License
 
