@@ -13,7 +13,7 @@ The goal is to answer practical business questions with clear SQL queries, clean
 Many student projects stop at charts. This one is structured like an analyst portfolio piece:
 
 - business-first questions
-- reproducible SQL analysis
+- SQL scripts with documented export requirements
 - Python-based visualisation
 - clear executive summary
 - actionable recommendations
@@ -26,7 +26,7 @@ Many student projects stop at charts. This one is structured like an analyst por
 2. What are the regional sales patterns in the best-performing country?
 3. Is there a relationship between vacation hours and bonus?
 4. Does sick leave vary by job title or department?
-5. Does store age predict revenue?
+5. How is store age associated with reported revenue?
 6. How do store size and number of employees relate to revenue?
 
 ## Executive Summary
@@ -34,7 +34,7 @@ Many student projects stop at charts. This one is structured like an analyst por
 - The **United States** is the top-performing country by revenue.
 - Within the US, the **Southwest** region contributes the largest share of sales.
 - **Vacation hours and bonus** show a weak relationship, suggesting benefits are not strongly tied to sales incentives.
-- **Sick leave differs by department**, but not in a way that clearly tracks seniority.
+- **Recorded sick-leave-hour balances differ by department**, but not in a way that clearly tracks seniority.
 - **Store age alone does not explain revenue**; newer stores can outperform older ones.
 - **Store size and employee count correlate positively with revenue**, but similarly sized stores can still perform very differently, indicating that execution matters.
 
@@ -77,7 +77,6 @@ Many student projects stop at charts. This one is structured like an analyst por
 adventureworks-retail-analysis/
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── requirements.txt
 ├── data/
 │   └── DATASET_SETUP.md
@@ -114,7 +113,7 @@ adventureworks-retail-analysis/
 
 - The original `.bak` database backup is **not included in this GitHub-ready repo zip** because it is too large for a normal GitHub repository workflow.
 - The original project report and slide deck are included in `docs/references/`.
-- This repo is designed to present the work professionally for recruiters and hiring managers.
+- This is a historical group analysis. Its SQL queries and visualisations were not reproduced in the October 2026 documentation review; see the root README for verification and interpretation limitations.
 
 
 ## Author
